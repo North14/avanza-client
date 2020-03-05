@@ -1,4 +1,3 @@
 # avanza-client
 
-Depends on Avanza python library
-
+Examples of client uses for Avanza Python Library
